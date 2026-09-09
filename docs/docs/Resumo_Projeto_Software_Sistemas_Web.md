@@ -1,5 +1,3 @@
-# Projeto-de-software
-
 # Projeto de Software e Sistemas Web — Resumo
 
 ## 1. O que é Projeto de Software
