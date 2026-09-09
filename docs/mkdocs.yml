@@ -3,4 +3,4 @@ site_author: Dario silva
 site_dir: /var/www/html
 
 theme:
-  name: mkdocs
+  name: material
